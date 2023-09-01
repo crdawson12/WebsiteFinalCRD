@@ -2,8 +2,8 @@
 title: "My Website"
 ---
 
-Hello, Website!
+Welcome to my humble online abode!
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+My name is Clara and I'm a first year M.S student in the NREN department. I'll be studying wildlife corridors and connectivity across the state of New Hampshire, which is fancy jargon for I will be putting out cameras on roads and culverts and seeing what animals utilize them for travel.
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+I am originally from North Carolina and graduated from NC State in 2020 with a B.S in Zoology and minors in Wildlife Science and Marine Science. After graduating, I spent several years traveling the Midwestern and the Southeastern U.S. working seasonal wildlife stings. Highlights from these jobs include tracking gray wolves in Minnesota, tagging Loggerhead sea turtles in North Carolina and radio collaring coyotes and bobcats in Illinois. When I'm not doing wildlife work, I love running, hiking, playing soccer and card games!
